@@ -30,6 +30,9 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+notlinked/
+linked/
+out.txt
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -295,3 +298,5 @@ __pycache__/
 *.xsd.cs
 
 # End of https://www.gitignore.io/api/csharp
+AnalysisReport.sarif
+upgrade-assistant.clef
